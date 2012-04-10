@@ -7,6 +7,4 @@ quickplot is a general set of functions for generating bitmaps and plotting them
 - Can output in simple plot formats (jpg, tiff, png) and structured scientific plot formast (hdf5 and pdb) allowing users to view their images in the VisIt visualization program.
 
 
-*********************************************************************************
-
-
+**********************************************************************************
